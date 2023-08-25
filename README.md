@@ -1,6 +1,6 @@
-## ![horizontal line](./image1.png)
+## ![horizontal line](./readme/image1.png)
 
-![](./image4.png)
+![](./readme/image4.png)
 
 **─**
 
@@ -22,8 +22,7 @@ technologies used, and deployment details of the application.
 View app;
 [[https://book4me.netlify.app/]](https://book4me.netlify.app/)
 
-![](./image5.png){width="5.208333333333333in"
-height="5.208333333333333in"}
+![](./readme/image5.png)
 
 ## 
 
@@ -85,7 +84,7 @@ Book4Me is a web application that facilitates hotel room bookings for
 travelers. It allows users to search for hotels, view hotel details,
 book rooms, and review services provided by the hotels.
 
-![](./image3.png)
+![](./readme/image3.png)
 
 ### **Key Features**
 
