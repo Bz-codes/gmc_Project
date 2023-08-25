@@ -201,8 +201,7 @@ frontend code in the repository trigger automatic deployment.
 
 ### **Backend Deployment**
 
-The backend server is hosted on a cloud platform such as AWS, Heroku, or
-DigitalOcean. Environment variables are securely stored for
+The backend server is hosted on a cloud platform, AWS. Environment variables are securely stored for
 configuration.
 
 ### **Database Setup**
