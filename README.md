@@ -1,15 +1,14 @@
-## ![horizontal line](./image1.png){width="6.470197944006999in" height="0.11458333333333333in"} 
+## ![horizontal line](./image1.png)
 
-![](./image4.png){width="6.276042213473316in"
-height="5.208333333333333in"}
+![](./image4.png)
 
 **─**
 
 Marvelous Obiji
 
-[[marvelousobiji@gmail.com]{.underline}](mailto:marvelousobiji@gmail.com)
+[[marvelousobiji@gmail.com]](mailto:marvelousobiji@gmail.com)
 
-[[https://github.com/Bz-codes]{.underline}](https://github.com/Bz-codes)
+[[https://github.com/Bz-codes]](https://github.com/Bz-codes)
 
 09051775961
 
@@ -21,7 +20,7 @@ document provides an overview of the features, user access levels,
 technologies used, and deployment details of the application.
 
 View app;
-[[https://book4me.netlify.app/]{.underline}](https://book4me.netlify.app/)
+[[https://book4me.netlify.app/]](https://book4me.netlify.app/)
 
 ![](./image5.png){width="5.208333333333333in"
 height="5.208333333333333in"}
@@ -86,7 +85,7 @@ Book4Me is a web application that facilitates hotel room bookings for
 travelers. It allows users to search for hotels, view hotel details,
 book rooms, and review services provided by the hotels.
 
-![](./image3.png){width="5.6875in" height="4.760416666666667in"}
+![](./image3.png)
 
 ### **Key Features**
 
